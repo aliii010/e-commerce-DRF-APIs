@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The e-commerce app is a comprehensive platform designed to facilitate online shopping. It is built with a robust backend using Django and Django Rest Framework (DRF) to manage the database, user authentication, and API endpoints. The frontend is being developed using Vue.js, providing a dynamic and interactive user experience.
+The e-commerce app is a comprehensive platform designed to facilitate online shopping. It is built with a robust backend using Django and Django Rest Framework (DRF) to manage the database, user authentication, and API endpoints. [The frontend is developed using Vue.js](https://github.com/aliii010/e-commerce-vue), providing a dynamic and interactive user experience.
 
 ## Key Features
 
